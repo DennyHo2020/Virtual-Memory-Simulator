@@ -35,3 +35,5 @@ Pages that are referenced get a second chance. The first page found that is not 
 
 PTE is a page table entry class that keeps track of the dirty, reference, valid bits plus the frame number and page number.
 
+![Screen Shot 2020-02-01 at 4 57 31 PM](https://user-images.githubusercontent.com/31720526/73600861-fd9f6b80-4513-11ea-8747-1e19e705d745.png)
+
