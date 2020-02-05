@@ -2,7 +2,7 @@
 
 Virtual Memory Simulator
 
-Program simulates four Page Replacement Algorithms: 
+Program simulates 4 Page Replacement Algorithms: 
 1. The Optimal
 2. First In First Out(FIFO) 
 3. Random
